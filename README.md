@@ -18,4 +18,8 @@ Modified via [Cubic](https://github.com/PJ-Singh-001/Cubic)
   - inkscape
   - krita
   - flatpak
-
+  - curl
+- Cloned and Built from Source:
+  - [btop++](https://github.com/aristocratos/btop)
+  - [Stellarium](https://github.com/Stellarium/stellarium)
+  - [audacity](https://github.com/audacity/audacity)
